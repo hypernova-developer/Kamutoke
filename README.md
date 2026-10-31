@@ -67,4 +67,4 @@ g++ -std=c++20 -O3 -Wall -Wextra -pedantic src/main.cpp -o kamutoke
 
 The **Kamutoke** project is maintained by **hypernova-developer** under the **GNU General Public License v3.0 (GPL-3.0)**.
 
-```
+> hypernova-developer 
